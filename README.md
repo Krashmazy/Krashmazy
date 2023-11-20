@@ -1,7 +1,7 @@
 # 🚀 Welcome to the Cantina ! You are our Only Hope. 🌌
 
 ## Greetings, Young Padawan Developer! 👋
-I am [Your Jedi Name], a coding Jedi still learning the ways of the Force. Transmitting my messages from the humble planet of [Your Planet], where the syntax is as mysterious as the Force.
+I am Alexis, a coding Jedi still learning the ways of the Force. Transmitting my messages from the humble planet of Home, where the syntax is as mysterious as the Force.
 
 ## Jedi Apprentice Skills 🚦
 - **Programming Force Techniques:** Currently mastering Python, dabbling in JavaScript, and embracing the ways of Java (lightsaber assembly still in progress)
