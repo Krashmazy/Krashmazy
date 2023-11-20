@@ -4,9 +4,10 @@
 I am Alexis, a coding Jedi still learning the ways of the Force. Transmitting my messages from the humble planet of Home, where the syntax is as mysterious as the Force.
 
 ## Jedi Apprentice Skills 🚦
-- **Programming Force Techniques:** Currently mastering Python, dabbling in JavaScript, and embracing the ways of Java (lightsaber assembly still in progress)
-- **Frameworks from a Galaxy Far, Far Away:** taking small steps with React, and cautiously approaching Spring Boot (like a Jedi cautious of the Dark Side)
-- **Database Mind Tricks:** Learning the basics of MySQL, taming the wild world of MongoDB (I can feel the Force, but the queries are still a mystery)
+- **Programming Force Techniques:** Currently hard learning Python and Java, dabbling in JavaScript (lightsaber assembly still in progress).
+- **Frameworks from a Galaxy Far, Far Away:** taking small steps with React, and cautiously approaching Spring Boot (like a Jedi cautious of the Dark Side).
+- **Database Mind Tricks:** Learning the basics of MySQL, taming the wild world of MongoDB (I can feel the Force, but the queries are still a mystery).
+- **Automatisation:** Learning Docker, Ansible, Kubernetes.
 
 ## The Solo Project: [Project Skywalker](https://github.com/Krashmazy/MdpGen/blob/1346c3c71c6e76e4e29cf22f5108c15c38bbfa77/src/PasswordGeneratorGUI.java)
 Embark on this solo mission, where bugs are the dark side, and every commit is a step towards becoming a coding Jedi. This is where the training begins.
