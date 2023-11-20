@@ -1,4 +1,4 @@
-# 🚀 Welcome to the Beginner's Cantina! You are our Only Hope. 🌌
+# 🚀 Welcome to the Cantina ! You are our Only Hope. 🌌
 
 ## Greetings, Young Padawan Developer! 👋
 I am [Your Jedi Name], a coding Jedi still learning the ways of the Force. Transmitting my messages from the humble planet of [Your Planet], where the syntax is as mysterious as the Force.
