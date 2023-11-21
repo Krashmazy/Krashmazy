@@ -1,9 +1,9 @@
 # 🚀 Welcome to the Cantina ! You are our Only Hope. 🌌
 
-## Greetings, Young Padawan Developer! 👋
+## Greetings, Young Padawan Developer! 🐱‍👤
 I am Alexis, a coding Jedi still learning the ways of the Force. Transmitting my messages from the humble planet of Home, where the syntax is as mysterious as the Force.
 
-## Jedi Apprentice Skills 🚦
+## Jedi Apprentice Skills 👀
 - **Programming Force Techniques:** Currently hard learning Python and Java, dabbling in JavaScript (lightsaber assembly still in progress).
 - **Frameworks from a Galaxy Far, Far Away:** taking small steps with React, and cautiously approaching Spring Boot (like a Jedi cautious of the Dark Side).
 - **Database Mind Tricks:** Learning the basics of MySQL, taming the wild world of MongoDB (I can feel the Force, but the queries are still a mystery).
